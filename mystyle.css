@@ -25,7 +25,7 @@
         }
 
         /* Scrollbar Styling */
-        ::-webkit-scrollbar {
+        ::-webkit-scrollbar {  
             width: 8px;
         }
 
