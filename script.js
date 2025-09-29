@@ -10,7 +10,7 @@
                     });
                 }
             });
-        });
+        });  
   
         // Navbar background change on scroll
         window.addEventListener('scroll', function() {
