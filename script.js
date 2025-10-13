@@ -44,7 +44,7 @@
         
         window.addEventListener('scroll', function() {
             if (window.pageYOffset > 300) {
-                scrollTopBtn.classList.add('show');
+                scrollTopBtn.classList.add('show');  
             } else {
                 scrollTopBtn.classList.remove('show');
             }
