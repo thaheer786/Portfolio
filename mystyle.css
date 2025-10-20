@@ -21,7 +21,7 @@
             background: var(--primary-black);
             color: var(--text-white);
             line-height: 1.6;
-            overflow-x: hidden;
+            overflow-x: hidden;  
         }
 
         /* Scrollbar Styling */
