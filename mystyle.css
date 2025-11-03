@@ -91,7 +91,7 @@
         }
 
         .nav-links a:hover {
-            color: var(--accent-red);
+            color: var(--accent-red);   
         }
 
         .nav-links a::after {
